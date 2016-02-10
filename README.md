@@ -1,6 +1,6 @@
 # U.S. abbreviations
 
-Utilities for converting between different U.S. state abbreviations.
+Utility for converting between different U.S. state abbreviations.
 
 ## Installation
 
@@ -25,9 +25,10 @@ a converter by immediately setting these parameters:
     convertStatesToPostStyle('01');
         => 'Alabama'
 
-Available keys:
+### Available keys:
 
 **'full'** – Full state name
+
     * `Alabama`
     * `Alaska`
     * `Arizona`
