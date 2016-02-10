@@ -1,0 +1,23 @@
+{
+  "name": "us-abbreviations",
+  "version": "0.0.0",
+  "description": "Utilities for converting between different U.S. state abbreviations.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinschaul/us-abbreviations/"
+  },
+  "keywords": [
+    "U.S.;",
+    "states;",
+    "abbreviations"
+  ],
+  "author": "Kevin Schaul",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
