@@ -3,13 +3,15 @@ Alabama,01,AL,Ala.
 Alaska,02,AK,Alaska
 Arizona,04,AZ,Ariz.
 Arkansas,05,AR,Ark.
+American Somoa,60,AS,A.S.
 California,06,CA,Calif.
 Colorado,08,CO,Colo.
 Connecticut,09,CT,Conn.
-Delaware,11,DC,Del.
-D.C.,10,DE,D.C.
+Delaware,11,DE,Del.
+D.C.,10,DC,D.C.
 Florida,12,FL,Fla.
 Georgia,13,GA,Ga.
+Guam,66,GU,Guam
 Hawaii,15,HI,Hawaii
 Idaho,16,ID,Idaho
 Illinois,17,IL,Ill.
@@ -20,6 +22,7 @@ Kentucky,21,KY,Ky.
 Louisiana,22,LA,La.
 Maine,23,ME,Maine
 Maryland,24,MD,Md.
+Marshall Islands,68,MH,M.H.
 Massachusetts,25,MA,Mass.
 Michigan,26,MI,Mich.
 Minnesota,27,MN,Minn.
@@ -34,10 +37,12 @@ New Mexico,35,NM,N.M.
 New York,36,NY,N.Y.
 North Carolina,37,NC,N.C.
 North Dakota,38,ND,N.D.
+Northern Mariana Islands,69,MP,M.P.
 Ohio,39,OH,Ohio
 Oklahoma,40,OK,Okla.
 Oregon,41,OR,Ore.
 Pennsylvania,42,PA,Pa.
+Puerto Rico,72,P.R.
 Rhode Island,44,RI,R.I.
 South Carolina,45,SC,S.C.
 South Dakota,46,SD,S.D.
@@ -46,6 +51,7 @@ Texas,48,TX,Texas
 Utah,49,UT,Utah
 Vermont,50,VT,Vt.
 Virginia,51,VA,Va.
+Virgin Islands,78,VI,V.I.
 Washington,53,WA,Wash.
 West Virginia,54,WV,W.Va.
 Wisconsin,55,WI,Wis.
