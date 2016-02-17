@@ -6,8 +6,8 @@ Arkansas,05,AR,Ark.
 California,06,CA,Calif.
 Colorado,08,CO,Colo.
 Connecticut,09,CT,Conn.
-Delaware,11,DC,Del.
-D.C.,10,DE,D.C.
+Delaware,11,DE,Del.
+District of Columbia,10,DC,D.C.
 Florida,12,FL,Fla.
 Georgia,13,GA,Ga.
 Hawaii,15,HI,Hawaii
@@ -38,6 +38,7 @@ Ohio,39,OH,Ohio
 Oklahoma,40,OK,Okla.
 Oregon,41,OR,Ore.
 Pennsylvania,42,PA,Pa.
+Puerto Rico,72,PR,P.R.
 Rhode Island,44,RI,R.I.
 South Carolina,45,SC,S.C.
 South Dakota,46,SD,S.D.
