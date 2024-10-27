@@ -1,6 +1,6 @@
 {
   "name": "us-abbreviations",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Utilities for converting between different U.S. state abbreviations.",
   "main": "src/index.js",
   "scripts": {
